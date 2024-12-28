@@ -20,9 +20,13 @@ Contributed to a project using Convolutional Neural Networks (CNNs) to identify 
 📫 You can reach me via:
 
 Email: muppidinagamanogna@gmail.com
+<br>
 LinkedIn: linkedin.com/in/muppidi-nagamanogna/
+<br>
 GitHub: github.com/NagaManogna/
+<br>
 Phone: +91-9398375225
+<br>
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I enjoy combining technology with creativity, whether through developing software solutions or creating visually captivating designs!
